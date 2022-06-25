@@ -1,1 +1,1 @@
-## Repositório com malguns projetos desenvolvidos com html, css e javascript ;
+## Repositório com malguns projetos desenvolvidos com html, css e javascript;
